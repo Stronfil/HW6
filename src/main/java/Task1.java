@@ -14,5 +14,5 @@ public class Task1 {
     } else {
         throw new RuntimeException("4 не найдена");
     }
-}
+    }
 }
